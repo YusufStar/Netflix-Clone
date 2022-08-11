@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5e61142-dbd0-46ba-820b-d2b6f353658c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/netflix-clone-v2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netflix-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/children/despicable-me/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/children/despicable-me/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/children/frozen/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/children/frozen/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/children/hotel-transylvania/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/children/hotel-transylvania/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/children/spirited-away/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/children/spirited-away/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/children/up/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/children/up/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/drama/fight-club/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/drama/fight-club/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/drama/kings-speech/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/drama/kings-speech/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/drama/the-prestige/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/drama/the-prestige/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/drama/the-revenant/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/drama/the-revenant/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/drama/the-social-network/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/drama/the-social-network/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/romance/a-star-is-born/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/romance/a-star-is-born/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/romance/blue-valentine/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/romance/blue-valentine/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/romance/la-la-land/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/romance/la-la-land/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/romance/the-notebook/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/romance/the-notebook/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/romance/titanic/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/romance/titanic/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/suspense/gone-girl/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/suspense/gone-girl/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/suspense/prisoners/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/suspense/prisoners/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/suspense/seven/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/suspense/seven/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/suspense/shutter-island/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/suspense/shutter-island/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/suspense/zodiac/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/suspense/zodiac/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/thriller/a-quiet-place/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/thriller/a-quiet-place/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/thriller/black-swan/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/thriller/black-swan/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/thriller/joker/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/thriller/joker/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/thriller/nightcrawler/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/thriller/nightcrawler/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/thriller/the-silence-of-the-lambs/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/films/thriller/the-silence-of-the-lambs/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/chevron-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/close-slim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/misc/home-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/misc/home-imac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/misc/home-mobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/misc/home-tv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/misc/joker1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/misc/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/misc/spinner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/children/arthur/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/children/arthur/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/children/dora-the-explorer/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/children/dora-the-explorer/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/children/paw-patrol/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/children/paw-patrol/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/children/peppa-pig/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/children/peppa-pig/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/children/spongebob/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/children/spongebob/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/comedies/arrested-development/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/comedies/arrested-development/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/comedies/curb-your-enthusiasm/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/comedies/curb-your-enthusiasm/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/comedies/family-guy/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/comedies/family-guy/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/comedies/south-park/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/comedies/south-park/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/comedies/the-office/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/comedies/the-office/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/crime/long-shot/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/crime/long-shot/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/crime/making-a-murderer/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/crime/making-a-murderer/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/crime/the-confession-killer/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/crime/the-confession-killer/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/crime/the-innocent-man/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/crime/the-innocent-man/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/crime/the-staircase/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/crime/the-staircase/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/documentaries/amanda-knox/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/documentaries/amanda-knox/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/documentaries/citizenfour/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/documentaries/citizenfour/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/documentaries/man-on-wire/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/documentaries/man-on-wire/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/documentaries/super-size-me/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/documentaries/super-size-me/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/documentaries/tiger-king/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/documentaries/tiger-king/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/feel-good/forrest-gump/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/feel-good/forrest-gump/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/feel-good/good-will-hunting/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/feel-good/good-will-hunting/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/feel-good/juno/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/feel-good/juno/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/feel-good/midnight-in-paris/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/feel-good/midnight-in-paris/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/feel-good/school-of-rock/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series/feel-good/school-of-rock/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/users/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/users/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/users/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/users/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/users/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/videos/bunny.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/__snapshots__/accordion.test.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/__snapshots__/card.test.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/__snapshots__/feature.test.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/__snapshots__/footer.test.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/__snapshots__/form.test.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/__snapshots__/header.test.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/__snapshots__/jumbotron.test.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/__snapshots__/loading.test.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/__snapshots__/opt-form.test.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/__snapshots__/player.test.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/__snapshots__/profiles.test.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/accordion.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/card.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/feature.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/footer.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/form.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/header.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/jumbotron.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/loading.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/opt-form.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/player.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/components/profiles.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/containers/profiles.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/pages/browse.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/pages/home.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/pages/signin.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/pages/signup.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/utils/selection-filter.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/accordion/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/accordion/styles/accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/card/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/card/styles/card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/feature/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/feature/styles/feature.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer/styles/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/form/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/form/styles/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/styles/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/jumbotron/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/jumbotron/styles/jumbotron.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/loading/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/loading/styles/loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/opt-form/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/opt-form/styles/opt-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/player/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/player/styles/player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/profiles/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/profiles/styles/profiles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/browse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/faqs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/jumbotron.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/profiles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fixtures/faqs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fixtures/jumbo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/global-styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/use-auth-listener.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/use-content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/firebase.prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/browse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/signin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/selection-filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DCobfBEjZLDyk2319ENKGXqkDC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Project.color&quot;: &quot;00524d&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5e61142-dbd0-46ba-820b-d2b6f353658c" name="Changes" comment="" />
+      <created>1660212502987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660212502987</updated>
+      <workItem from="1660212507326" duration="603000" />
+      <workItem from="1660213335368" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
