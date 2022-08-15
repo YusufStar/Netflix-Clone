@@ -14,7 +14,7 @@ export function seedDatabase(firebase) {
     ============================================ */
   // Documentaries
   firebase.firestore().collection('series').add({
-    id: getUUID(),
+    id: getUUID(Ig8OaihuVAfLHL8EiWKe),
     title: 'Tiger King',
     description: 'An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.',
     genre: 'documentaries',
@@ -22,7 +22,7 @@ export function seedDatabase(firebase) {
     slug: 'tiger-king',
   });
   firebase.firestore().collection('series').add({
-    id: getUUID(),
+    id: getUUID(v5eB3UwgwD6c9NymLQZG),
     title: 'Amanda Knox',
     description: 'Amanda Marie Knox is an American woman who spent almost four years in an Italian prison.',
     genre: 'documentaries',
@@ -30,7 +30,7 @@ export function seedDatabase(firebase) {
     slug: 'amanda-knox',
   });
   firebase.firestore().collection('series').add({
-    id: getUUID(),
+    id: getUUID(4j02CDpkfWuBWxpLmtm5),
     title: 'Citizenfour',
     description:
       'Citizenfour is a 2014 documentary film directed by Laura Poitras, concerning Edward Snowden and the NSA spying scandal.',
@@ -39,7 +39,7 @@ export function seedDatabase(firebase) {
     slug: 'citizenfour',
   });
   firebase.firestore().collection('series').add({
-    id: getUUID(),
+    id: getUUID(KpgK2K5r7wfUKuM6g2jC),
     title: 'Super Size Me',
     description:
       "Director Morgan Spurlock's social experiment in fast-food gastronomy sees him attempting to subsist uniquely on food from the McDonalds",
@@ -249,7 +249,7 @@ export function seedDatabase(firebase) {
     ============================================ */
   // Drama
   firebase.firestore().collection('films').add({
-    id: getUUID(),
+    id: getUUID(AigHaBupzullvBQrMIqw),
     title: 'The Prestige',
     description:
       'Two friends and fellow magicians become bitter enemies after a sudden tragedy. As they devote themselves to this rivalry, they make sacrifices that bring them fame but with terrible consequences.',
