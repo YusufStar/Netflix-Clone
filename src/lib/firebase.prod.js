@@ -3,9 +3,6 @@ import 'firebase/firestore';
 import 'firebase/auth';
 import { seedDatabase } from "../seed"
 
-// 1) when seeding the database you'll have to uncomment this!
-// import { seedDatabase } from '../seed';
-
 const config = {
   apiKey: "AIzaSyCo8jTchMv2O0DME0Xzjiy5F0qJdvL6USQ",
   authDomain: "netflix-11d06.firebaseapp.com",
